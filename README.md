@@ -20,7 +20,11 @@
 
 <div align="center">
 
-![QuickChat Demo](chatapp1.png)
+![QuickChat Demo](chatapp3.png)
+
+|    |    |
+|-----------------------------|-----------------------------|
+| ![QuickChat2](chatapp2.png) | ![QuickChat3](chatapp1.png) |
 
 </div>
 
