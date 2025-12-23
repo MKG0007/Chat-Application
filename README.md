@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <a href="http" target="_blank">
+  <a href="https://quickchatt.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo">
   </a>
   &nbsp;
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![QuickChat Demo](quickchat.png)
+![QuickChat Demo](chatapp1.png)
 
 </div>
 
